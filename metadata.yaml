@@ -1,0 +1,39 @@
+_repo: Stanford-Stories--Tales-of-a-Young-University_24735
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24735-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Field, Charles K. (Charles Kellogg)
+    birthdate: &id001 1873
+    gutenberg_agent_id: '26706'
+    url: http://www.gutenberg.org/2009/agents/26706
+  - agent_name: Irwin, Will
+    alias: Irwin, William Henry
+    birthdate: *id001
+    deathdate: 1948
+    gutenberg_agent_id: '26707'
+    url: http://www.gutenberg.org/2009/agents/26707
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Irwin
+description: ''
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'College stories, American'
+- !lcsh 'Stanford University -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Stanford (Calif.) -- Fiction'
+tableOfContents: A midwinter madness -- Pocahontas, freshman -- His uncle's will --
+  The initiation of Dromio -- The substituted full-back -- Two pioneers and an audience
+  -- For the sake of argument -- An alumni dinner -- Boggs' election feed -- In the
+  dark days -- Crossroads -- A song cycle and a puncture -- One commencement.
+title: 'Stanford Stories: Tales of a Young University'
+url: http://www.gutenberg.org/ebooks/24735
